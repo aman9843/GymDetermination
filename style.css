@@ -1,13 +1,16 @@
 html{
     scroll-behavior: smooth;
 }
+body {
+    overflow-x: hidden;
+}
 #col-header-description{
     margin-top: 18%;
 }
 .header{
     background-image:url(https://free4kwallpapers.com/uploads/originals/2020/08/02/wolf-howling-k-wallpaper.png);
     height: 700PX;
-    background-attachment: fixed;
+    
 }
 #h1-header{
     color:white ;
