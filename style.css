@@ -28,6 +28,9 @@ body {
     background-color:aqua;
     margin-bottom: 1rem;
 }
+.img-fluid{
+    color: white;
+}
 
 .line{
     height: 5px;
